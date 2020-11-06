@@ -1,0 +1,44 @@
+body
+{
+    text-align: center;
+    font-family: "Arial";
+<<<<<<< HEAD
+    color: blue;
+=======
+    color:red;
+>>>>>>> cabecera
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+
+#cabecera {
+
+    background: #33A;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:whitesmoke;
+}
+
+#cabecera span{
+ 
+    font-size: 14px;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+
+}
+
+#container h1
+{
+font-size: 20px;
+}
